@@ -15,12 +15,13 @@ Nexbyte	Studio portfolio site with animated team & project sections	React, Vite,
 
 View Rank - https://viewrank.vercel.app
 World Computer & Printers - https://worldcomputerprinters.com
+My portfolio - https://muzamilkehar.vercel.app
 
 🛠️ Tech Stack
 
-Frontend: React · Vite · Tailwind CSS · Framer Motion · React Router Backend: Node.js · Express · FastAPI · MongoDB · JWT Auth ML/Data: Python · scikit-learn Tools: Git · Vercel · Render · MongoDB Atlas
+Frontend: React · Next.js · Vite · Tailwind CSS · Framer Motion · React Router Backend: Node.js · Express · FastAPI · MongoDB · PostgresSql · JWT Auth ML/Data: Python · scikit-learn Tools: Git · Vercel · Render · MongoDB Atlas
 
 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/muzamil-kehar2004/
 Email: muzamilalikehar2004@gmail.com
-Portfolio: 
+Portfolio: https://muzamilkehar.vercel.app
